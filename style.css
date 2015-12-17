@@ -1,0 +1,61 @@
+body {
+  font-family: -apple-system, Sans-Serif !important;
+  font-weight: 100 !important;
+  color: #fff;
+  background: #303030;
+}
+
+a {
+  outline: none !important;
+}
+
+footer,
+footer a {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+/* Bootstrap */
+
+.bg-clean {
+  background: none;
+}
+
+.display-3 {
+  font-size: 56px;
+}
+
+.lead {
+  font-size: 24px;
+  opacity: 0.7;
+}
+
+.nav-pills {
+  text-align: center !important;
+}
+
+.nav-pills > li {
+  float: none !important;
+  display: inline-block;
+}
+
+.nav-pills > li > a {
+  background: none !important;
+  color: #fff;
+  opacity: 0.3;
+}
+
+.nav-pills > li > a.active {
+  opacity: 1.0;
+}
+
+.carousel-control {
+  background: none !important;
+}
+
+.carousel-control span {
+  display: none !important;
+}
+
+.carousel.slide {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
